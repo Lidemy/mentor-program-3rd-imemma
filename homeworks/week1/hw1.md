@@ -16,5 +16,5 @@
 7. 去 Github 請求 pull reguest  
 	reviewer 設為 huli or @huli  
 8. 至mentor-program-3rd去開issue老師才會改作業
-9. 刪除branch  
+9. 刪除branch 等老師merge才可以刪
 	git branch -d hw1   
