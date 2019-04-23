@@ -9,12 +9,16 @@
 	git checkout -b hw1   
 4. 修改後做狀態確認  
 	git status  
-5. commit  
+5. 每次做完都要做 add
+	git add <檔案名>
+6.	commit  
 	git commit -am "finshined hw1"  
-6. 推上 Github 
+7. 推上 Github 
 	git push origin hw1  
-7. 去 Github 請求 pull reguest  
+8. 去 Github 請求 pull reguest  
 	reviewer 設為 huli or @huli  
-8. 至mentor-program-3rd去開issue老師才會改作業
-9. 刪除branch 等老師merge才可以刪
+9. 至[改作業的地方][https://github.com/Lidemy/homeworks-3rd]去開issue老師才會改作業
+10. 刪除branch 等老師merge才可以刪
 	git branch -d hw1   
+	
+	
