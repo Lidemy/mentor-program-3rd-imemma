@@ -17,7 +17,7 @@
 	git push origin hw1  
 8. 去 Github 請求 pull reguest  
 	reviewer 設為 huli or @huli  
-9. 至[改作業的地方][https://github.com/Lidemy/homeworks-3rd]去開issue老師才會改作業
+9. 至 [改作業的地方][https://github.com/Lidemy/homeworks-3rd] 去開issue老師才會改作業
 10. 刪除branch 等老師merge才可以刪
 	git branch -d hw1   
 	
